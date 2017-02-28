@@ -152,10 +152,14 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>$(IncludePath);$(ProjectDir)\include\data_types;$(ProjectDir)\include\exact_containers\;$(ProjectDir)\include\execute\;$(ProjectDir)\include\generic\;$(ProjectDir)\include\hash\;$(ProjectDir)\include\interpreter\;$(ProjectDir)\include\lexical\;$(ProjectDir)\include\syntax\;$(ProjectDir)\include\;</IncludePath>
     <SourcePath>$(VC_SourcePath)</SourcePath>
+    <ExcludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(MSBuild_ExecutablePath);$(VC_LibraryPath_x64);</ExcludePath>
+    <ExecutablePath>$(VC_ExecutablePath_x64);$(WindowsSDK_ExecutablePath);$(VS_ExecutablePath);$(MSBuild_ExecutablePath);$(FxCopDir);$(PATH);</ExecutablePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <IncludePath>$(IncludePath);$(ProjectDir)\include\data_types;$(ProjectDir)\include\exact_containers\;$(ProjectDir)\include\execute\;$(ProjectDir)\include\generic\;$(ProjectDir)\include\hash\;$(ProjectDir)\include\interpreter\;$(ProjectDir)\include\lexical\;$(ProjectDir)\include\syntax\;$(ProjectDir)\include\;</IncludePath>
     <SourcePath>$(VC_SourcePath)</SourcePath>
+    <ExcludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(MSBuild_ExecutablePath);$(VC_LibraryPath_x64);</ExcludePath>
+    <ExecutablePath>$(VC_ExecutablePath_x64);$(WindowsSDK_ExecutablePath);$(VS_ExecutablePath);$(MSBuild_ExecutablePath);$(FxCopDir);$(PATH);</ExecutablePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

@@ -27,10 +27,12 @@ int       regwords_get_comment (char  *buf, size_t *offset, char *str)
 int       regwords_get_id_s    (char **buf, array_id *rw_ids)
 { int result = 0;
 
-  size_t i, j;
+  unsigned int i, j;
   
-  FILE* f = NULL; long file_size;
-  char  c;  unsigned int  offset;
+  FILE* f = NULL;
+  long file_size;
+  char  c;
+  unsigned int  offset;
   
    // open file stream
   if( !(f = fopen (RW_ID_FILENAME,"r")) )

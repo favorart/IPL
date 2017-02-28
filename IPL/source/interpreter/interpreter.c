@@ -47,11 +47,12 @@ int   Interpret (interpreter *Interpreter)
   "Start interpretation. It can takes some time to perform. Please, wait.\n");
   
   // запоминаем место для возврата в случае ошибки
-  if ( !setjmp(CurError()->jump) ) // when executed, setjmp returns 0
+  if ( !setjmp (CurError()->jump) ) // when executed, setjmp returns 0
   { StartInterpret (&Names_table); }
   else // when longjmp jumps back, setjmp returns non-NULL
   { /* место для обработки ошибок */ 
-    ipc_files_remove (&Names_table); goto END;
+    ipc_files_remove (&Names_table);
+    goto END;
   }
 
   fprintf(Interpreter->f_out,"\nThe program performed successfully.\n");

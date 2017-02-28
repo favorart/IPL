@@ -23,7 +23,7 @@ int     extract_nword (char *buf, list_nm *nwrd)
 { 
   size_t i, n = spc_num_nword (buf) + 1U;
   for(i=0; i<n; i++)
-    list_nm_extract (nwrd, 0, NULL);
+    list_nm_extracts (nwrd, 0);
   return 0;
 }
 int     restore_nword (char *buf, unsigned int n)

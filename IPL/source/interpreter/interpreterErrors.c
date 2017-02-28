@@ -87,7 +87,9 @@ There is an error with \"%s\" on the line %d\n", buf, CurError()->line );
 
   //system("pause"); exit(1);
   CurError()->err = err;
-  if( *CurError()->jump )
-   longjmp (CurError()->jump, 1);
+
+  char memoryBlock[sizeof (jmp_buf)] = { 0 };
+  if ( memcmp (CurError ()->jump, memoryBlock, sizeof (jmp_buf)) )
+    longjmp (CurError()->jump, 1);
 }
 //-------------------------------------------------------------------------------
