@@ -23,7 +23,22 @@
 *.a
 *.lib
 
+# MS VS
+*.suo
+*.sdf
+*.opensdf
+*.user
+*.filters
+*.vc.db
+
 # Executables
 *.exe
 *.out
 *.app
+
+# Folders
+./ipch/
+./.vs/
+./data/
+./interpret_last/
+./Debug/
