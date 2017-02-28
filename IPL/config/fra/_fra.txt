@@ -1,0 +1,94 @@
+﻿programme				   // program
+des variables			   // variables
+commencer				   // begin
+si						   // if
+tandis que				   // while
+pour					   // for
+contribution			   // input 
+sortie					   // output
+longueur				   // length
+type					   // type
+jeter					   // cast
+
+cicle					   // cicle
+répéter					   // repeat
+
+ajouter					   // add
+effacer					   // delete
+trouver					   // find
+effacer					   // clear
+
+la fin du programme		   // end of program
+
+entier					   // integer  
+chaîne					   // string   
+flotter					   // float
+fonction				   // function
+conteneur				   // container
+commun					   // joint
+
+structure				   // structure
+modèle					   // pattern
+
+tableau					   // array
+liste					   // list
+déclaré					   // declared
+
+fin						   // end
+entraîné				   // resulted
+
+else if					   // else if
+d'autre					   // else
+
+à partir de				   // from
+jusqu'à ce que			   // until
+par l'étape				   // by step
+contrer					   // counter  
+briser					   // break
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

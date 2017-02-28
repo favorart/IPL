@@ -1,0 +1,57 @@
+_Dastur
+_O'zgaruvchilar
+_Kirish
+_Agar
+_Mobaynida
+_Takror
+_Kiritish
+_Chiqarish
+_Uzunlik
+_Turlanish
+_Tur
+
+= ! + - * / % /\ \/ !/ == != >= <= > < 
+
+_Qo'shish
+_O'chirish
+_Topish
+_Tozalash
+
+( )
+| |
+[ ]
+:
+
+_DasturOhiri
+
+_Butun
+_Qator
+_O'nli
+_Konteyner
+_Funksiya
+_Yig'indi
+
+_Massiv
+_Ro'yxat
+_E'lonQilingan
+
+_Chiqish
+_Natija
+
+_Unda
+_AksYa'ni
+_Aksholda
+
+_HarBir
+_Sondan
+_Songacha
+_Qadam
+_Uzilish
+_Bajarish
+
+_B
+_Q
+_O'
+
+,
+;

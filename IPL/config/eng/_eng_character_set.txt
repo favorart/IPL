@@ -1,0 +1,27 @@
+
+#-----------------------------------------------------------------------
+# character set using in russian version of interpreter syntax
+#-----------------------------------------------------------------------
+
+letters= _abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+signs= ~!|&\^#*+-/%:<=>()[]{},;:.
+digits= 0123456789
+quote= "
+dec.point= .
+
+#-----------------------------------------------------------------------
+#-----------------------------------------------------------------------
+# instruction filling of this file
+#-----------------------------------------------------------------------
+
+# The order of 'group-id' words and one space after equal sign is important. 
+# The order of characters does no matter. Type characters without spaces or other signs 
+# and use symbol '\n' (or '\r\n' in windows) for end-of-set-sign.
+
+# {   quote   } = 1 symbol (for indicating string constants)
+# { dec.point } = 1 symbol (used in float-point numbers)
+# {   signs   } = {braces} U {decimal point} U {indexator} U {arithmetic operators} U 
+#                         {condition operators} U {logic operators} U {comments}
+
+#-----------------------------------------------------------------------
+

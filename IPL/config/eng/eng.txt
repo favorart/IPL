@@ -1,0 +1,112 @@
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#   начало файла задани€ регул€рных слов €зыка
+
+#   word_id=  слово     через " , " синонимы                   "#" значение регул€рного слова данного €зыка
+#------------------------------------------------------------------------------------------------------------------------------------
+    program=  program
+       vars=  vars
+   need_var=  need      ,  need var  , var
+      begin=  begin     ,    follow  , "("
+         if=  if  
+      while=  while     ,     until
+        for=  for       ,    repeat
+      scanf=  scanf     ,     input
+     printf=  printf    ,    output
+     sizeof=  size of   ,      size  ,    length
+     typeid=  type id   ,      type  ,  get type
+  type_cast=  type cast ,      cast
+   function=  function  , operation  , procedure
+
+        end=  end       , "."        , ")"
+     return=  resulted  ,    return
+       exit=  exit      , terminate  ,   endprog
+#------------------------------------------------------------------------------------------------------------------------------------
+#  арифметические операции        = ! + - * / % /\ \/ !/ == != >= <= > < 
+
+   arth_bnd=  bind     , let be      , ":="
+   arth_add=  plus     , add         , "+" 
+   arth_sub=  minus    , subtract    , "-" 
+   arth_mul=             multiply by , "*" 
+   arth_div=               divide by , "/" 
+   arth_mod=  remainder              , "%" 
+
+   arth__or=  or       , "\/"        , "|"
+   arth_and=  and      , "/\"        , "&"
+   arth_not=  not      , "~"         , "!"
+#  arth_xor=  xor      , "!/"        , "^"
+									 
+   arth__eq=  equal to , "="                   , "=="
+   arth__ls=  less                             , "<" 
+   arth__gt=  great                            , ">" 
+ arth_no_eq=  not equal to , "<>"              , "!="
+ arth_eq_ls=  not overcome , great or equal to , "<="
+ arth_eq_gt=      overcome ,  less or equal to , ">="
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#   функции контейнеров и структур
+
+    cnt_add=  insert into  , add to 
+    cnt_del=  extract from
+    cnt_fnd=  find         , look for
+    cnt_clr=  clear
+#   cnt_srt=  sort         , order
+
+    o_index=  "["							
+    c_index=  "]"							
+ post_index=  by index	   , at number 	
+# pre_index= -a€ , -й, -го ,-ой , -ое , -ие
+
+  jnt_field=  ":"          , "."	   , as
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#  типы данных
+
+   vars_int=  integer								
+   vars_str=  string								
+   vars_flt=  float        , real    , floating point number
+   vars_fnc=  include      , import			
+   vars_cnt=  container								
+   vars_jnt=  joint        , structure		
+   vars_cns=  constant
+  
+   vars_arr=  array								
+   vars_lst=  list								
+
+#------------------------------------------------------------------------------------------------------------------------------------
+
+   if_then= then           , that	
+   if_elif= elif           , else if	
+   if_else= else
+
+  for_each= each	
+  for_elem= element	
+  for_from= from		
+ for_until= to		
+ for_by_st= bystep	
+
+        do= do             , run
+     break= break          , stop
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#  ввод констант
+
+    in_int= int			
+    in_str= str		
+    in_flt= flt
+
+#------------------------------------------------------------------------------------------------------------------------------------
+#  разделители
+
+  end_expr= ","
+  end_cmmd= ";"            , "."
+  
+#  комментарии
+
+  line_comm=  "#"          , "//"			,	REM	
+  o_comment=  "/*"         , "{"					
+  c_comment=  "*/"         , "}"					
+
+#--------------------------------------------------------------------------------------------------------------------------------
+#   конец файла задани€ регул€рных слов €зыка
+

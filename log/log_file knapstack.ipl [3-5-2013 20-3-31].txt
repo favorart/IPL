@@ -1,0 +1,2632 @@
+
+lexical analyze;
+[операция] [сортировать пузырьком] [:] [s] [--] [список] 
+Stack - 0:
+
+PostfixSentence - 0:
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         1"  Constant  Int  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         x"  Variable  Not  |
+
+Stack - 1:
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 0:
+
+Stack - 2:
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 0:
+
+Stack - 2:
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         0"  Constant  Int  |
+
+Stack - 1:
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 1:
+"    больше"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 2:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 3:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 3:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"         y"  Variable  Not  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 4:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"         y"  Variable  Not  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 4:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         1"  Constant  Int  |
+"         y"  Variable  Not  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         0"  Constant  Int  |
+
+Stack - 2:
+"    больше"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 1:
+"    больше"  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         0"  Constant  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+" временная"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+" временная"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 1:
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 1:
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         1"  Constant  Int  |
+"         y"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+" временная"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 1:
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 1:
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         1"  Constant  Int  |
+"         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         -"  Reg_Word  Sgn  |
+  "         1"  Constant  Int  |
+  "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+" временная"  Variable  Cnt  |
+"      None"  Constant  Not  |
+"         s"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"      если"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "    больше"  Reg_Word  Sgn  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         -"  Reg_Word  Sgn  |
+   "         1"  Constant  Int  |
+   "         y"  Variable  Not  |
+  "          "  Pre_Comp  Not  :
+   "         0"  Constant  Int  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Not  |
+  "          "  Pre_Comp  Not  :
+   "         0"  Constant  Int  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  "         s"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         -"  Reg_Word  Sgn  |
+    "         1"  Constant  Int  |
+    "         y"  Variable  Not  |
+  " временная"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  "         s"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         y"  Variable  Not  |
+  "         s"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         -"  Reg_Word  Sgn  |
+    "         1"  Constant  Int  |
+    "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  " временная"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+  "         s"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"       для"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "         y"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         1"  Constant  Int  |
+ "          "  Pre_Comp  Not  :
+  "         x"  Variable  Not  |
+ NULL|
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "      если"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "    больше"  Reg_Word  Sgn  |
+   "         s"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "         -"  Reg_Word  Sgn  |
+     "         1"  Constant  Int  |
+     "         y"  Variable  Not  |
+    "          "  Pre_Comp  Not  :
+     "         0"  Constant  Int  |
+   "         s"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Not  |
+    "          "  Pre_Comp  Not  :
+     "         0"  Constant  Int  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "        :="  Reg_Word  Sgn  |
+    "         s"  Variable  Cnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "         -"  Reg_Word  Sgn  |
+      "         1"  Constant  Int  |
+      "         y"  Variable  Not  |
+    " временная"  Variable  Cnt  |
+    "      None"  Constant  Not  |
+   "          "  Pre_Comp  Not  :
+    "        :="  Reg_Word  Sgn  |
+    "         s"  Variable  Cnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "         y"  Variable  Not  |
+    "         s"  Variable  Cnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "         -"  Reg_Word  Sgn  |
+      "         1"  Constant  Int  |
+      "         y"  Variable  Not  |
+   "          "  Pre_Comp  Not  :
+    "        :="  Reg_Word  Sgn  |
+    " временная"  Variable  Cnt  |
+    "      None"  Constant  Not  |
+    "         s"  Variable  Cnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"       для"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "         x"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "         s"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ NULL|
+ NULL|
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "       для"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Not  |
+   "          "  Pre_Comp  Not  :
+    "         1"  Constant  Int  |
+   "          "  Pre_Comp  Not  :
+    "         x"  Variable  Not  |
+   NULL|
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "      если"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "    больше"  Reg_Word  Sgn  |
+     "         s"  Variable  Cnt  |
+     "          "  Pre_Comp  Not  :
+      "          "  Pre_Comp  Not  :
+       "         -"  Reg_Word  Sgn  |
+       "         1"  Constant  Int  |
+       "         y"  Variable  Not  |
+      "          "  Pre_Comp  Not  :
+       "         0"  Constant  Int  |
+     "         s"  Variable  Cnt  |
+     "          "  Pre_Comp  Not  :
+      "          "  Pre_Comp  Not  :
+       "         y"  Variable  Not  |
+      "          "  Pre_Comp  Not  :
+       "         0"  Constant  Int  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "        :="  Reg_Word  Sgn  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         -"  Reg_Word  Sgn  |
+        "         1"  Constant  Int  |
+        "         y"  Variable  Not  |
+      " временная"  Variable  Cnt  |
+      "      None"  Constant  Not  |
+     "          "  Pre_Comp  Not  :
+      "        :="  Reg_Word  Sgn  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         y"  Variable  Not  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         -"  Reg_Word  Sgn  |
+        "         1"  Constant  Int  |
+        "         y"  Variable  Not  |
+     "          "  Pre_Comp  Not  :
+      "        :="  Reg_Word  Sgn  |
+      " временная"  Variable  Cnt  |
+      "      None"  Constant  Not  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         y"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 0:
+
+lexical analyze;
+[операция] [наполнить рюкзак] [:] 
+Stack - 0:
+
+PostfixSentence - 0:
+
+Stack - 0:
+
+PostfixSentence - 2:
+"список плотностей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 0:
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Int  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 1:
+"         y"  Variable  Int  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         1"  Constant  Int  |
+"         y"  Variable  Int  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"         x"  Variable  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         1"  Constant  Int  |
+"         y"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         z"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"         y"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"список вещей"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"     объем"  Constant  Str  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 1:
+"         <"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 2:
+"         <"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 2:
+"         <"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"объем рюкзака"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 3:
+"         <"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 3:
+"объем рюкзака"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 3:
+"         <"  Reg_Word  Sgn  |
+"         ("  Reg_Word  Sgn  |
+"         -"  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"объем взятых вещей"  Variable  Int  |
+"объем рюкзака"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 1:
+"         <"  Reg_Word  Sgn  |
+
+PostfixSentence - 5:
+"         -"  Reg_Word  Sgn  |
+"объем взятых вещей"  Variable  Int  |
+"объем рюкзака"  Variable  Int  |
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         y"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"список номеров взятых вещей"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "добавить в"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         y"  Variable  Int  |
+ "      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 1:
+"зададим значение"  Reg_Word  Sgn  |
+
+PostfixSentence - 1:
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 1:
+"зададим значение"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"объем взятых вещей"  Variable  Int  |
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 2:
+"зададим значение"  Reg_Word  Sgn  |
+" прибавить"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"объем взятых вещей"  Variable  Int  |
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"     объем"  Constant  Str  |
+
+Stack - 2:
+"зададим значение"  Reg_Word  Sgn  |
+" прибавить"  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         z"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+"объем взятых вещей"  Variable  Int  |
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"      если"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "         <"  Reg_Word  Sgn  |
+ "         -"  Reg_Word  Sgn  |
+ "объем взятых вещей"  Variable  Int  |
+ "объем рюкзака"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "     объем"  Constant  Str  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "список номеров взятых вещей"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "добавить в"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         y"  Variable  Int  |
+   "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "зададим значение"  Reg_Word  Sgn  |
+  " прибавить"  Reg_Word  Sgn  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"       для"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "  элемента"  Reg_Word  Not  |
+ "         x"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "список плотностей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ NULL|
+ NULL|
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  "         x"  Variable  Not  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         1"  Constant  Int  |
+  "         y"  Variable  Int  |
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  "список вещей"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         y"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "      если"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         <"  Reg_Word  Sgn  |
+   "         -"  Reg_Word  Sgn  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем рюкзака"  Variable  Int  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "список номеров взятых вещей"  Variable  Cnt  |
+    "          "  Pre_Comp  Not  :
+     "добавить в"  Reg_Word  Not  |
+     "          "  Pre_Comp  Not  :
+      "         y"  Variable  Int  |
+     "      None"  Constant  Not  |
+   "          "  Pre_Comp  Not  :
+    "зададим значение"  Reg_Word  Sgn  |
+    " прибавить"  Reg_Word  Sgn  |
+    "         z"  Variable  Jnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "     объем"  Constant  Str  |
+    "объем взятых вещей"  Variable  Int  |
+    "объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"   вывести"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "объем взятых вещей"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 0:
+
+lexical analyze;
+[программа] [наполнение рюкзака] [:] 
+lexical analyze;
+[дано] [следующее] [объем рюкзака] [--] [целое число] [:=] [3] [;] 
+Stack - 0:
+
+PostfixSentence - 0:
+
+lexical analyze;
+[найти] [список] [номеров взятых вещей] [--] [контейнер] [;] 
+Stack - 0:
+
+PostfixSentence - 0:
+
+lexical analyze;
+[печать] [список вещей] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"список вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"    печать"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "список вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[пусть] [плотности вещей] [--] [массив] [;] [для] [всякого] [x] [из] [список вещей] [выполнять] [следующее] [1.] [нужна переменная] [y] [--] [словарь] [;] 
+Stack - 0:
+
+PostfixSentence - 0:
+
+lexical analyze;
+[для] [всякого] [x] [из] [список вещей] [выполнять] [следующее] [1.] [нужна переменная] [y] [--] [словарь] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"список вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 0:
+
+Stack - 0:
+
+PostfixSentence - 0:
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         y"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         y"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         x"  Variable  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"список вещей"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "         x"  Variable  Not  |
+"         y"  Variable  Jnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"       вес"  Constant  Str  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         y"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "       вес"  Constant  Str  |
+
+Stack - 1:
+"         /"  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"         y"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "       вес"  Constant  Str  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"     объем"  Constant  Str  |
+
+Stack - 1:
+"         /"  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"         y"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "     объем"  Constant  Str  |
+"         y"  Variable  Jnt  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "       вес"  Constant  Str  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "добавить в"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         /"  Reg_Word  Sgn  |
+  "         y"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+  "         y"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "       вес"  Constant  Str  |
+ "      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"         x"  Variable  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "добавить в"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         x"  Variable  Not  |
+ "      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "добавить в"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         z"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ "      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"         z"  Variable  Cnt  |
+"          "  Pre_Comp  Not  :
+ "  очистить"  Reg_Word  Not  |
+
+Stack - 0:
+
+PostfixSentence - 3:
+"       для"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "         x"  Variable  Not  |
+ "          "  Pre_Comp  Not  :
+  "список вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ NULL|
+ NULL|
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "        :="  Reg_Word  Sgn  |
+  "список вещей"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "         x"  Variable  Not  |
+  "         y"  Variable  Jnt  |
+  "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "         z"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "добавить в"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         /"  Reg_Word  Sgn  |
+    "         y"  Variable  Jnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "     объем"  Constant  Str  |
+    "         y"  Variable  Jnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "       вес"  Constant  Str  |
+   "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "         z"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "добавить в"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         x"  Variable  Not  |
+   "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "плотности вещей"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "добавить в"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         z"  Variable  Cnt  |
+    "      None"  Constant  Not  |
+   "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "         z"  Variable  Cnt  |
+  "          "  Pre_Comp  Not  :
+   "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+ "         y"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+ "         y"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         /"  Reg_Word  Sgn  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "         y"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "       вес"  Constant  Str  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         x"  Constant  Int  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "добавить в"  Reg_Word  Not  |
+  "          "  Pre_Comp  Not  :
+   "         z"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         z"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "  очистить"  Reg_Word  Not  |
+
+
+Execution:
+
+lexical analyze;
+[печать] [плотности вещей] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"    печать"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "плотности вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[плотности вещей] [:=] [сортировать пузырьком] [плотности вещей] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"сортировать пузырьком"  Variable  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "плотности вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+
+Execution:
+
+Procedure variables:
+"         s"  Variable  Cnt  "         x"  Variable  Not  "         y"  Variable  Not  "      args"  Variable  Cnt  " временная"  Variable  Cnt  
+
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "       для"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         x"  Variable  Not  |
+  "          "  Pre_Comp  Not  :
+   "         s"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  NULL|
+  NULL|
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "       для"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         y"  Variable  Not  |
+    "          "  Pre_Comp  Not  :
+     "         1"  Constant  Int  |
+    "          "  Pre_Comp  Not  :
+     "         x"  Variable  Not  |
+    NULL|
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "      если"  Reg_Word  Not  |
+     "          "  Pre_Comp  Not  :
+      "    больше"  Reg_Word  Sgn  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         -"  Reg_Word  Sgn  |
+        "         1"  Constant  Int  |
+        "         y"  Variable  Not  |
+       "          "  Pre_Comp  Not  :
+        "         0"  Constant  Int  |
+      "         s"  Variable  Cnt  |
+      "          "  Pre_Comp  Not  :
+       "          "  Pre_Comp  Not  :
+        "         y"  Variable  Not  |
+       "          "  Pre_Comp  Not  :
+        "         0"  Constant  Int  |
+     "          "  Pre_Comp  Not  :
+      "          "  Pre_Comp  Not  :
+       "        :="  Reg_Word  Sgn  |
+       "         s"  Variable  Cnt  |
+       "          "  Pre_Comp  Not  :
+        "          "  Pre_Comp  Not  :
+         "         -"  Reg_Word  Sgn  |
+         "         1"  Constant  Int  |
+         "         y"  Variable  Not  |
+       " временная"  Variable  Cnt  |
+       "      None"  Constant  Not  |
+      "          "  Pre_Comp  Not  :
+       "        :="  Reg_Word  Sgn  |
+       "         s"  Variable  Cnt  |
+       "          "  Pre_Comp  Not  :
+        "          "  Pre_Comp  Not  :
+         "         y"  Variable  Not  |
+       "         s"  Variable  Cnt  |
+       "          "  Pre_Comp  Not  :
+        "          "  Pre_Comp  Not  :
+         "         -"  Reg_Word  Sgn  |
+         "         1"  Constant  Int  |
+         "         y"  Variable  Not  |
+      "          "  Pre_Comp  Not  :
+       "        :="  Reg_Word  Sgn  |
+       " временная"  Variable  Cnt  |
+       "      None"  Constant  Not  |
+       "         s"  Variable  Cnt  |
+       "          "  Pre_Comp  Not  :
+        "          "  Pre_Comp  Not  :
+         "         y"  Variable  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         -"  Reg_Word  Sgn  |
+   "         1"  Constant  Int  |
+   "         y"  Constant  Int  |
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ " временная"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ " временная"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         0"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         -"  Reg_Word  Sgn  |
+   "         1"  Constant  Int  |
+   "         y"  Constant  Int  |
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ " временная"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ " временная"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+ "         s"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Constant  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"с результатом"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "         s"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "         s"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[печать] [плотности вещей] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"    печать"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "плотности вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[список номеров взятых вещей] [:=] [наполнить рюкзак] [(] [список вещей] [,] [объем рюкзака] [,] [плотности вещей] [)] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"список номеров взятых вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 2:
+"список номеров взятых вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"список вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 1:
+"объем рюкзака"  Variable  Int  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"плотности вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 1:
+"        :="  Reg_Word  Sgn  |
+
+PostfixSentence - 4:
+"наполнить рюкзак"  Variable  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "список вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+ "          "  Pre_Comp  Not  :
+  "объем рюкзака"  Variable  Int  |
+ "          "  Pre_Comp  Not  :
+  "плотности вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+"список номеров взятых вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "объем рюкзака"  Variable  Int  |
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "плотности вещей"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+
+Procedure variables:
+"         x"  Variable  Not  "         y"  Variable  Int  "         z"  Variable  Jnt  "      args"  Variable  Cnt  "объем рюкзака"  Variable  Int  "список номеров взятых вещей"  Variable  Cnt  "список плотностей"  Variable  Cnt  "сортировать пузырьком"  Variable  "список вещей"  Variable  Cnt  "объем взятых вещей"  Variable  Int  
+
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "       для"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "  элемента"  Reg_Word  Not  |
+  "         x"  Variable  Not  |
+  "          "  Pre_Comp  Not  :
+   "список плотностей"  Variable  Cnt  |
+   "      None"  Constant  Not  |
+  NULL|
+  NULL|
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "        :="  Reg_Word  Sgn  |
+   "         x"  Variable  Not  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "         1"  Constant  Int  |
+   "         y"  Variable  Int  |
+  "          "  Pre_Comp  Not  :
+   "        :="  Reg_Word  Sgn  |
+   "список вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+   "         z"  Variable  Jnt  |
+   "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "      если"  Reg_Word  Not  |
+   "          "  Pre_Comp  Not  :
+    "         <"  Reg_Word  Sgn  |
+    "         -"  Reg_Word  Sgn  |
+    "объем взятых вещей"  Variable  Int  |
+    "объем рюкзака"  Variable  Int  |
+    "         z"  Variable  Jnt  |
+    "          "  Pre_Comp  Not  :
+     "          "  Pre_Comp  Not  :
+      "     объем"  Constant  Str  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "список номеров взятых вещей"  Variable  Cnt  |
+     "          "  Pre_Comp  Not  :
+      "добавить в"  Reg_Word  Not  |
+      "          "  Pre_Comp  Not  :
+       "         y"  Variable  Int  |
+      "      None"  Constant  Not  |
+    "          "  Pre_Comp  Not  :
+     "зададим значение"  Reg_Word  Sgn  |
+     " прибавить"  Reg_Word  Sgn  |
+     "         z"  Variable  Jnt  |
+     "          "  Pre_Comp  Not  :
+      "          "  Pre_Comp  Not  :
+       "     объем"  Constant  Str  |
+     "объем взятых вещей"  Variable  Int  |
+     "объем взятых вещей"  Variable  Int  |
+"          "  Pre_Comp  Not  :
+ "   вывести"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "         x"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         1"  Constant  Int  |
+ "         y"  Variable  Int  |
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "зададим значение"  Reg_Word  Sgn  |
+ " прибавить"  Reg_Word  Sgn  |
+ "         z"  Variable  Jnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "     объем"  Constant  Str  |
+ "объем взятых вещей"  Variable  Int  |
+ "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"      None"  Constant  Not  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "зададим значение"  Reg_Word  Sgn  |
+ " прибавить"  Reg_Word  Sgn  |
+ "         z"  Variable  Jnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "     объем"  Constant  Str  |
+ "объем взятых вещей"  Variable  Int  |
+ "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "        :="  Reg_Word  Sgn  |
+ "список вещей"  Variable  Cnt  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "         y"  Variable  Int  |
+ "         z"  Variable  Jnt  |
+ "      None"  Constant  Not  |
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "      если"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "         <"  Reg_Word  Sgn  |
+  "         -"  Reg_Word  Sgn  |
+  "объем взятых вещей"  Variable  Int  |
+  "объем рюкзака"  Variable  Int  |
+  "         z"  Variable  Jnt  |
+  "          "  Pre_Comp  Not  :
+   "          "  Pre_Comp  Not  :
+    "     объем"  Constant  Str  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "список номеров взятых вещей"  Variable  Cnt  |
+   "          "  Pre_Comp  Not  :
+    "добавить в"  Reg_Word  Not  |
+    "          "  Pre_Comp  Not  :
+     "         y"  Variable  Int  |
+    "      None"  Constant  Not  |
+  "          "  Pre_Comp  Not  :
+   "зададим значение"  Reg_Word  Sgn  |
+   " прибавить"  Reg_Word  Sgn  |
+   "         z"  Variable  Jnt  |
+   "          "  Pre_Comp  Not  :
+    "          "  Pre_Comp  Not  :
+     "     объем"  Constant  Str  |
+   "объем взятых вещей"  Variable  Int  |
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "   вывести"  Reg_Word  Not  |
+ "          "  Pre_Comp  Not  :
+  "          "  Pre_Comp  Not  :
+   "объем взятых вещей"  Variable  Int  |
+
+
+Execution:
+
+
+Execution:
+
+
+Execution:
+"с результатом"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "список номеров взятых вещей"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+"          "  Pre_Comp  Not  :
+ "список номеров взятых вещей"  Variable  Cnt  |
+ "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[вывести] [список номеров взятых вещей] [;] 
+Stack - 0:
+
+PostfixSentence - 2:
+"список номеров взятых вещей"  Variable  Cnt  |
+"      None"  Constant  Not  |
+
+Stack - 0:
+
+PostfixSentence - 2:
+"   вывести"  Reg_Word  Not  |
+"          "  Pre_Comp  Not  :
+ "          "  Pre_Comp  Not  :
+  "список номеров взятых вещей"  Variable  Cnt  |
+  "      None"  Constant  Not  |
+
+
+Execution:
+
+lexical analyze;
+[конец программы] [;] 
+Stack - 0:
+
+PostfixSentence - 1:
+"конец программы"  Reg_Word  Not  |

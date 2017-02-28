@@ -1,0 +1,22 @@
+spec.sign= _
+letters= abcdefghijklmnopqrstuvwxyz'ABCDEFGHIJKLMNOPQRSTUVWXYZ
+signs= ()|=!+-*/%<>\/:[],;
+digits= 0123456789
+quote= "
+dec.point= .
+
+//----------------
+// type without spaces character sets with names above, 
+// character order doesn't matter,
+// '\n' for end of set
+
+{ spec.sign } = 1 symbol (the first symbol in the all regular words of language)
+{   quote   } = 1 symbol (for indicating string constants)
+{ dec.point } = 1 symbol
+
+{   signs   } = {braces} U {decimal point} U {indexator} U {arithmetic operators} U 
+                           {condition operators} U {logic operators} U {comments}
+
+{  unused   } - ( 0x03 )
+//----------------
+
