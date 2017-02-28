@@ -37,8 +37,8 @@
 *.app
 
 # Folders
-./ipch/
-./.vs/
-./data/
-./interpret_last/
-./Debug/
+ipch/
+.vs/
+data/
+interpret_last/
+Debug/
