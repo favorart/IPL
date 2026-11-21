@@ -344,16 +344,16 @@ _____________________
 
 * [1]	Шилдт Г. Язык С для профессиональных программистов. / Born to Code in C. – Osborne, 1989
 * [2]	Керниган Б., Ритчи Д. Язык программирования С. / The C Programming Language. – Prentice Hall, 1988
-* [3]	[Пример написания простого интерпретатора](http://rsdn.ru/forum/alg/5018812.all)
-* [4]	[Сам себе интерпретатор](http://coderszone.info/339-sam-sebe-interpretator.html)
+* [3]	[Пример написания простого интерпретатора](https://rsdn.org/forum/alg/5018812)
+* [4]	[Сам себе интерпретатор](https://web.archive.org/web/20090820050231/http://coderszone.info/339-sam-sebe-interpretator.html)
 * [5]	[Динамическая типизация данных](http://ru.wikipedia.org/wiki/Динамическая_типизация)
 
 
 ### Использованные алгоритмы
 
-*	{1}	[Метод вычисления хэш-суммы файла SHA256 (Ch.Devine, 2003)](http://patux.net/crypto_programs/hash/sha-2/sha256.c.html)
+*	{1}	[Метод вычисления хэш-суммы файла SHA256 (Ch.Devine, 2003)](https://web.archive.org/web/20120615070343/http://patux.net/crypto_programs/hash/sha-2/sha256.c.html)
 *	{2}	[Метод рекурсивного спуска](https://ru.wikipedia.org/wiki/Метод_рекурсивного_спуска)
-*	{3}	[Построение прямой польской нотации методом программного стека](http://algolist.manual.ru/maths/misc/revpn.php)
+*	{3}	[Построение прямой польской нотации методом программного стека](https://web.archive.org/web/20240705142522/https://algolist.manual.ru/maths/misc/revpn.php)
 *	{4}	Построение хэш-таблиц
 *	Хэш-адрес равен остатку от деления на простое число (А.Думи, 1956)
 *	Метод цепочек (Г.П.Лан, 1953)
